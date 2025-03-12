@@ -82,6 +82,6 @@ plt.ylabel("Time (s) (log scale)")
 plt.legend()
 plt.title("Runtime Analysis of Sorting & Search Algorithms")
 
-# 🔹 Diagramm 
+# 🔹 Diagramm
 plt.grid(True, which="both", linestyle="--", linewidth=0.5)
 plt.show()
